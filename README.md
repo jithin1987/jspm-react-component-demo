@@ -7,4 +7,6 @@ git clone git@github.com:guybedford/jspm-react-component-demo
 cd jspm-react-component-demo
 npm install -g jspm@beta
 jspm install
+npm install
+node index.js
 ```
