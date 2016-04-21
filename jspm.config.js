@@ -17,6 +17,9 @@ SystemJS.config({
         }
       }
     }
+  },
+  map: {
+    'babel/external-helpers': 'npm:systemjs-plugin-babel@0.0.5/babel-helpers.js'
   }
 });
 
